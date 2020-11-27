@@ -7,7 +7,7 @@
 * [Links](#links)
 
 ## Introduction
-Quick introduction of Application
+Portfolio page showing projects and contact informartion.
 
 ## Demo Images
 
@@ -17,5 +17,5 @@ Quick introduction of Application
 If you want to contact me you can reach me at banda_adrian@outlook.com.
 
 ## Links
-[Heroku](link)  
-[Github Profile](link)
+[Portfolio Page](https://banda-adrian.github.io/Portfolio-Page-2.0/.)  
+[Github Profile](https://github.com/banda-adrian/Portfolio-Page-2.0.git)

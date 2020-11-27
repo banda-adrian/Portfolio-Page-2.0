@@ -11,7 +11,7 @@ Portfolio page showing projects and contact informartion.
 
 ## Demo Images
 
-![screenshot](assets/images/template1.jpg) 
+![screenshot](public/images/template.png) 
 
 ## Contact
 If you want to contact me you can reach me at banda_adrian@outlook.com.

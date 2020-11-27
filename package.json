@@ -1,8 +1,7 @@
 {
   "name": "portfolio-page-2.0",
   "version": "1.0.0",
-  "description": "## Table of Contents * [Introduction](#introduction)  * [How it Works](#how-it-works) * [Requirements](#requirements) * [Installation](#installation) * [Contributors](#contributors) * [Demo Images](#demo-images) * [Contact](#contact) * [Links](#links)",
-  "main": "index.js",
+  "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-css": "tailwindcss build src/styles.css -o public/styles.css",
@@ -17,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/banda-adrian/Portfolio-Page-2.0/issues"
   },
-  "homepage": "file:///Users/banda/Documents/SMU/Github/Portfolio-Page-2.0/public/index2.0.html",
+  "homepage": "https://banda-adrian.github.io/Portfolio-Page-2.0/",
   "dependencies": {
     "autoprefixer": "^10.0.3",
     "postcss": "^8.1.10",

@@ -17,5 +17,5 @@ Portfolio page showing projects and contact informartion.
 If you want to contact me you can reach me at banda_adrian@outlook.com.
 
 ## Links
-[Portfolio Page](https://banda-adrian.github.io/Portfolio-Page-2.0/.)  
+[Portfolio Page](https://banda-adrian.github.io/Portfolio-Page-2.0/)  
 [Github Profile](https://github.com/banda-adrian)
